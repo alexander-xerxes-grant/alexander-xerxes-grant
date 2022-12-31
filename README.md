@@ -20,3 +20,11 @@ for repo in repos:
   ![GitHub last commit](https://img.shields.io/github/last-commit/alexander-xerxes-grant/advent-of-code?logo=python&style=flat-square)
 - [my-hypermodern-python](https://github.com/alexander-xerxes-grant/my-hypermodern-python) &mdash;
   ![GitHub last commit](https://img.shields.io/github/last-commit/alexander-xerxes-grant/advent-of-code?logo=python&style=flat-square)
+
+## Contact
+
+Reach me on [LinkedIn], or at alexanderxgrant@gmail.com.
+
+[LinkedIn]: https://linkedin.com/in/alexander-x-grant
+
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cjolowicz&show_icons=true&hide_border=true" />
