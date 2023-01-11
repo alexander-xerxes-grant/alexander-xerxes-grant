@@ -18,7 +18,7 @@ for repo in repos:
 
 - [advent-of-code](https://github.com/alexander-xerxes-grant/advent-of-code) &mdash;
   ![GitHub last commit](https://img.shields.io/github/last-commit/alexander-xerxes-grant/advent-of-code?logo=python&style=flat-square)
-- [my-hypermodern-python](https://github.com/alexander-xerxes-grant/my-hypermodern-python) &mdash;
+- [random-wiki](https://github.com/alexander-xerxes-grant/random-wiki) &mdash;
   ![GitHub last commit](https://img.shields.io/github/last-commit/alexander-xerxes-grant/advent-of-code?logo=python&style=flat-square)
 
 ## Contact
