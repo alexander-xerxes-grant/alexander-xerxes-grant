@@ -27,4 +27,4 @@ Reach me on [LinkedIn], or at alexanderxgrant@gmail.com.
 
 [LinkedIn]: https://linkedin.com/in/alexander-x-grant
 
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alexander-xerxes-grant&show_icons=true&hide_border=true" />
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alexander-xerxes-grant)](https://github.com/alexander-xerxes-grant/github-readme-stats)
