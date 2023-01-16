@@ -20,6 +20,9 @@ for repo in repos:
   ![GitHub last commit](https://img.shields.io/github/last-commit/alexander-xerxes-grant/advent-of-code?logo=python&style=flat-square)
 - [random-wiki](https://github.com/alexander-xerxes-grant/random-wiki) &mdash;
   ![GitHub last commit](https://img.shields.io/github/last-commit/alexander-xerxes-grant/advent-of-code?logo=python&style=flat-square)
+- [codewars-kata](https://github.com/alexander-xerxes-grant/codewars-kata) &mdash;
+  ![GitHub last commit](https://img.shields.io/github/last-commit/alexander-xerxes-grant/codewars-kata?logo=python&style=flat-square)
+- [codewars profile](https://www.codewars.com/users/delacoal1)
 
 ## Contact
 
