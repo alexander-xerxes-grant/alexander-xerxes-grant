@@ -15,7 +15,7 @@ for repo in repos:
 """
     cog.out(entry)
 ]]] -->
-
+- [Spotify API Project](https://github.com/alexander-xerxes-grant/spotify_api_personal_data) &mdash;
 - [advent-of-code](https://github.com/alexander-xerxes-grant/advent-of-code) &mdash;
   ![GitHub last commit](https://img.shields.io/github/last-commit/alexander-xerxes-grant/advent-of-code?logo=python&style=flat-square)
 - [random-wiki](https://github.com/alexander-xerxes-grant/random-wiki) &mdash;
