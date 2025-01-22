@@ -25,8 +25,3 @@ for repo in repos:
 Reach me on [LinkedIn], or at alexanderxgrant@gmail.com.
 
 [LinkedIn]: https://linkedin.com/in/alexander-x-grant
-
-
-## My Contribution Heatmap
-
-[![alexander-xerxes-grant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alexander-xerxes-grant&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
