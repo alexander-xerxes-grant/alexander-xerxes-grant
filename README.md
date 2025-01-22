@@ -18,7 +18,7 @@ for repo in repos:
 - [Habit Tracker (React | Node | MongoDB)]((https://github.com/alexander-xerxes-grant/habit-tracker?)) &mdash;
   ![GitHub last commit](https://img.shields.io/github/last-commit/alexander-xerxes-grant/habit-tracker?logo=React&style=flat-square)
 - [codewars profile](https://www.codewars.com/users/delacoal1)
-- [![Alexander-xerxes-grant's Commits](https://github-readme-activity-graph.vercel.app/graph?username=alexander-xerxes-grant)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## Contact
 
@@ -27,3 +27,6 @@ Reach me on [LinkedIn], or at alexanderxgrant@gmail.com.
 [LinkedIn]: https://linkedin.com/in/alexander-x-grant
 
 
+## My Contribution Heatmap
+
+[![alexander-xerxes-grant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alexander-xerxes-grant&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
