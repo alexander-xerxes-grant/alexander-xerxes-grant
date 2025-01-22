@@ -15,10 +15,8 @@ for repo in repos:
 """
     cog.out(entry)
 ]]] -->
-- [spotify_api_personal_data](https://github.com/alexander-xerxes-grant/spotify_api_personal_data) &mdash;
-  ![GitHub last commit](https://img.shields.io/github/last-commit/alexander-xerxes-grant/spotify_api_personal_data?logo=python&style=flat-square)
-- [advent-of-code](https://github.com/alexander-xerxes-grant/advent-of-code) &mdash;
-  ![GitHub last commit](https://img.shields.io/github/last-commit/alexander-xerxes-grant/advent-of-code?logo=python&style=flat-square)
+- [Habit Tracker (React/Node/MongoDB]((https://github.com/alexander-xerxes-grant/habit-tracker?)) &mdash;
+  ![GitHub last commit](https://img.shields.io/github/last-commit/alexander-xerxes-grant/habit-tracker?logo=React&style=flat-square)
 - [codewars-kata](https://github.com/alexander-xerxes-grant/codewars-kata) &mdash;
   ![GitHub last commit](https://img.shields.io/github/last-commit/alexander-xerxes-grant/codewars-kata?logo=python&style=flat-square)
 - [codewars profile](https://www.codewars.com/users/delacoal1)
