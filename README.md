@@ -15,7 +15,7 @@ for repo in repos:
 """
     cog.out(entry)
 ]]] -->
-- [Habit Tracker (React | Node | MongoDB)](https://github.com/alexander-xerxes-grant/habit-tracker?) &mdash;
+- [Habit Tracker] (React | Node | MongoDB)(https://github.com/alexander-xerxes-grant/habit-tracker?) &mdash;
   ![GitHub last commit](https://img.shields.io/github/last-commit/alexander-xerxes-grant/habit-tracker?logo=React&style=flat-square)
 - [codewars profile](https://www.codewars.com/users/delacoal1)
 
